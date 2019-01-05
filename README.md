@@ -1,0 +1,2 @@
+# maktools.R
+Miscellaneous functions
