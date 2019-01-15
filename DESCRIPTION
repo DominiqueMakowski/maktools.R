@@ -12,7 +12,7 @@ Authors@R: c(
 Maintainer: Dominique Makowski <dom.makowski@gmail.com>
 URL: https://github.com/DominiqueMakowski/maktools.R
 BugReports: https://github.com/DominiqueMakowski/maktools.R/issues
-Description: A toolbox containing miscellaenous functions, some of which are very useful, some of which are not.
+Description: A toolbox containing miscellaneous functions, some very useful, some others absolutely useless.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
